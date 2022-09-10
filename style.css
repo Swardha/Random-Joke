@@ -5,10 +5,14 @@
     font-family: 'Noto Sans', sans-serif;
  
 }
+
 body{
+    background-color: rgb(196, 170, 27);
+}
+/* body{
    background:url("img1.jpg");
    background-size: cover;
-}
+} */
 
 .container{
     position:absolute;
